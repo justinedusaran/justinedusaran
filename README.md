@@ -1,21 +1,21 @@
-<div align="center">
-
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/Oj25fisQ3zhukVWY96/giphy.gif?cid=790b76112737jdr1czplx1lb7b95fuffcy6x5mki8giq7qql&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=justinedusaran&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tin
 </h1>
-<h3>
+<h3 align="center">
   A Junior Software Engineer and Aspiring Data Analyst
 </h3>
 
-</div>
+### 👩‍💻 About Me:
+- 🌱 I’m currently learning **Python, SQL, and Power BI**.
+- 🛠 I enjoy working on **web development, data visualization, and cybersecurity** projects.
 
 
 ### 💻 Tech Stack:
