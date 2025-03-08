@@ -15,7 +15,7 @@
 
 ### 👩‍💻 About Me:
 - 🌱 I’m currently learning **Python, SQL, Tableau and Power BI**.
-- 🛠 I enjoy working on **web development, data visualization, and cybersecurity** projects.
+- 🛠 I enjoy learning and working on **web development, data visualization, and cybersecurity**.
 
 
 ### 💻 Languages & Tools I've Used:
