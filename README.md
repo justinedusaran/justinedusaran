@@ -14,7 +14,7 @@
 </h3>
 
 ### 👩‍💻 About Me:
-- 🌱 I’m currently learning **Python, SQL, Tableau and Power BI**.
+- 🌱 I’m currently learning **Python, SQL and Power BI**.
 - 🛠 I enjoy learning and working on **web development, data visualization, and cybersecurity**.
 
 
