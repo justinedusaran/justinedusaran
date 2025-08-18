@@ -10,7 +10,7 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Tin
 </h1>
 <h3 align="center">
-  A Junior Software Engineer and Aspiring Data Analyst
+  A Junior Software Engineer
 </h3>
 
 ### 💻 Languages & Tools I've Used:
